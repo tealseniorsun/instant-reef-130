@@ -1,0 +1,4 @@
+# Development-only dependencies
+pytest>=7.0
+ruff>=0.4
+mypy>=1.8
