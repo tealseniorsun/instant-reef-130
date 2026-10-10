@@ -52,4 +52,4 @@ Windows 10/11、macOS 12+、RAM 4 GB以上 — 上の要件をご覧ください
 
 <p align="center"><a href="https://share.google/7zQgwookfbNtuukBC"><b>⬇ Download Iptv 無料 — free (2026)</b></a></p>
 
-<p align="center"><sub>MITライセンスで共有 · 更新 2026-10-09</sub></p>
+<p align="center"><sub>MITライセンスで共有 · 更新 2026-10-10</sub></p>
